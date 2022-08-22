@@ -12,11 +12,11 @@
 
 - 👯 I’m looking to collaborate on **Satellite Image processing to Inform Environmental Issues**
 
-- 💬 Ask me about **React, Javascript, Sass/css java**
+- 💬 Ask me about **React, Javascript, Sass/css and Java**
 
 - 📫 How to reach me **yaredbacha@gmail.com**
 
-- ⚡ Fun fact **Huge fun arsenal foot ball club**
+- ⚡ Fun fact **Huge fun of Arsenal foot ball club**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
