@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **ASP.NET**
 
-- 👯 I’m looking to collaborate on **Satellite Image processing**
+- 👯 I’m looking to collaborate on **Satellite Image processing to Inform Environmental Issues**
 
 - 💬 Ask me about **React, Javascript, Sass/css java**
 
